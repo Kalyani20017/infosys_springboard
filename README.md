@@ -196,13 +196,14 @@ streamlit run app.py
 ✅ Browse history  
 
 ---
+<img width="1591" height="728" alt="login_page" src="https://github.com/user-attachments/assets/6058d382-a1dc-4c43-9a0c-228b13e6261d" />
 
 
 
 ## 📸 Screenshots
 
 ### 1️⃣ Login Page
-<img src="screenshots/login_page.png"/>
+
 
 ### 2️⃣ Sign Up Page
 <img width="1596" height="728" alt="sign_up " src="https://github.com/user-attachments/assets/addf1aec-ad11-4ca3-ae0a-a7dbb7f44866" />
@@ -224,13 +225,11 @@ streamlit run app.py
 <img src="screenshots/profile_page.png"/>
 
 ### 8️⃣ Password Recovery Page
-<img src="screenshots/password_recovery.png"/>
+<img width="1598" height="733" alt="password_recovery" src="https://github.com/user-attachments/assets/bf42bb11-35d9-477b-92f6-d27c3dbf3bc8" />
+
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
 
 ## 🧭 Roadmap
 
