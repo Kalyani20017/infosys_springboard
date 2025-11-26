@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kalyani20017/Infosys_Springboard/main/screenshots/banner.gif?v=2" />
+   <img width="931" height="907" alt="Screenshot 2025-11-26 115446" src="https://github.com/user-attachments/assets/8ec0495b-8988-43fa-97bb-2cc82430b54f" />
+
 </p>
 
 
