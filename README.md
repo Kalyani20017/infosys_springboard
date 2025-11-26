@@ -196,13 +196,13 @@ streamlit run app.py
 ✅ Browse history  
 
 ---
-<img width="1591" height="728" alt="login_page" src="https://github.com/user-attachments/assets/6058d382-a1dc-4c43-9a0c-228b13e6261d" />
 
 
 
 ## 📸 Screenshots
 
 ### 1️⃣ Login Page
+<img width="1591" height="728" alt="login_page" src="https://github.com/user-attachments/assets/6058d382-a1dc-4c43-9a0c-228b13e6261d" />
 
 
 ### 2️⃣ Sign Up Page
