@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarveshkulkarni2023/Infosys_Springboard_V.0/main/screenshots/banner.gif?v=2" />
+  <img src="https://raw.githubusercontent.com/kalyani20017/Infosys_Springboard/main/screenshots/banner.gif?v=2" />
 </p>
 
 
@@ -15,9 +15,7 @@
 
 ---
 
-<p align="center">
-  <img src="/screenshots/divider.gif" width="600"/>
-</p>
+
 
 # 🧠 CodeGenie  
 Futuristic AI Code Explainer & Intelligent Code Generation Platform  
@@ -36,9 +34,6 @@ Helping developers understand code the way humans do — with clarity, structure
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
 
 ## 🌟 Introduction
 
@@ -54,9 +49,7 @@ Originally created during an **Infosys Springboard Internship**, it has evolved 
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
+
 
 ## 🚀 Key Features
 
@@ -87,9 +80,7 @@ Originally created during an **Infosys Springboard Internship**, it has evolved 
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
+
 
 ## 🧩 Architecture Overview
 
@@ -105,9 +96,7 @@ Originally created during an **Infosys Springboard Internship**, it has evolved 
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
+
 
 ## 🛠 Tech Stack
 
@@ -138,9 +127,6 @@ Originally created during an **Infosys Springboard Internship**, it has evolved 
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
 
 ## 📂 Project Structure
 
@@ -168,9 +154,6 @@ CodeGenie/
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
 
 ## ❄️ Installation & Setup
 
@@ -181,8 +164,8 @@ CodeGenie/
 
 ### Install
 ```bash
-git clone https://github.com/sarveshkulkarni2023/Infosys_Springboard_V.0
-cd Infosys_Springboard_V.0
+git clone https://github.com/kalyani20017/Infosys_Springboard
+cd Infosys_Springboard
 pip install -r requirements.txt
 ```
 
@@ -200,9 +183,7 @@ streamlit run app.py
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
+
 
 ## 📝 Usage Guide
 
@@ -216,9 +197,7 @@ streamlit run app.py
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
+
 
 ## 📸 Screenshots
 
@@ -226,7 +205,8 @@ streamlit run app.py
 <img src="screenshots/login_page.png"/>
 
 ### 2️⃣ Sign Up Page
-<img src="screenshots/sign_up.png"/>
+<img width="1596" height="728" alt="sign_up " src="https://github.com/user-attachments/assets/addf1aec-ad11-4ca3-ae0a-a7dbb7f44866" />
+
 
 ### 3️⃣ AI Chat Assistant
 <img src="screenshots/ai_chat.png"/>
