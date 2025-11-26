@@ -27,10 +27,9 @@ Helping developers understand code the way humans do — with clarity, structure
 
 | Category | Link |
 |----------|------|
-| 🎥 Demo Video | https://drive.google.com/file/d/1mtrmlc1ouGJ4K7M5yiGghkx9IHeG_yps/view |
 | 🐳 Docker Support | Yes |
 | 💡 Supported Languages | Python · JavaScript · SQL |
-| 📁 Screenshots Folder | `/screenshots/` |
+
 
 ---
 
@@ -243,9 +242,6 @@ streamlit run app.py
 
 ---
 
-<p align="center">
-  <img src="screenshots/divider.gif" width="600"/>
-</p>
 
 ## 📜 License
 
@@ -254,5 +250,5 @@ MIT License
 ---
 
 <p align="center">
-Made with ❤️ curiosity, and a mission to help developers truly understand code.
+“A good education builds confidence, improves knowledge, and shapes dreams.”
 </p>
